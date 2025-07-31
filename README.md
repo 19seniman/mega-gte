@@ -23,3 +23,6 @@ The MegaETH public testnet is currently live, serving as an arena for developers
 7️⃣ mint token testnet : https://cap.app/testnet
 8️⃣ buy/sell token : https://rainmakr.xyz/en/rainai
 9️⃣ swap& add liquidity: https://testnet.gte.xyz/
+
+## INSTALLATION
+
