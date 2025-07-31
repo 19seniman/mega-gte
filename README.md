@@ -12,7 +12,9 @@ The MegaETH public testnet is currently live, serving as an arena for developers
 ▫️Claim Faucet1 :https://testnet.megaeth.com/
 ▫️Claim faucet2 : https://testnet.gte.xyz/faucet
 ▫️Claim faucet via telegram : @faucet_trade_bot
+
 🟡 DAPPS untuk push transaksi
+
 0️⃣ Claim point : https://meganet.app/login?refcode=G97UHY
 1️⃣  connect wallet,pilih jaringan megaEth klik quest ,cari MegaEth mint nft,create domain&deploy :  https://conft.app
 2️⃣ deploy contract : https://contracts.mintair.xyz/
