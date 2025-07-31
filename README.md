@@ -26,3 +26,20 @@ The MegaETH public testnet is currently live, serving as an arena for developers
 
 ## INSTALLATION
 
+```
+git clone https://github.com/19seniman/mega-gte.git
+```
+```
+cd mega-gte
+```
+```
+npm install
+```
+```
+nano .env
+```
+~ Run The script
+
+```
+node lim.js
+```
