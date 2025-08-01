@@ -45,7 +45,17 @@ nano .env
 ```
 node lim.js
 ```
-##  🍉 Donate for  watermelon
 
-**EVM Address**  
+## EROR???
+
+Hi !! 
+How Are you Today??
+if you want to access the script please donate 1.6 usdt to evm wallet and send proof via telegram @VirtualAssistant19_bot
+Donate For Watermelon 🍉
+
+Usdt Or USdc
+
 `0xf01fb9a6855f175d3f3e28e00fa617009c38ef59`
+
+Send your proof to telegram @VirtualAssistant19_bot select menu /script_access_on_github
+
