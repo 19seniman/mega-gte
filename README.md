@@ -35,7 +35,8 @@ git clone https://github.com/19seniman/mega-gte.git
 cd mega-gte
 ```
 ```
-npm install
+npm init -y
+npm install dotenv axios ws uuid https-proxy-agent random-useragent
 ```
 ```
 nano .env
